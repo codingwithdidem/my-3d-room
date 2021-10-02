@@ -1,4 +1,4 @@
-# React ThreeJS 3d Animation App ( Kiki )
+# React ThreeJS 3d My Room
 
 See [DEMO](https://613285501922b10007272460--gallant-wing-05570c.netlify.app/)
 
@@ -7,12 +7,9 @@ See [DEMO](https://613285501922b10007272460--gallant-wing-05570c.netlify.app/)
 In the project directory, you can run:
 
 ```
-  npm install 
+  npm install
   npm start
 ```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
-
