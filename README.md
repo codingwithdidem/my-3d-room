@@ -1,6 +1,6 @@
 # React ThreeJS 3d My Room
 
-See [DEMO](https://613285501922b10007272460--gallant-wing-05570c.netlify.app/)
+See [DEMO](https://6158b67bf638ad0008f08145--gifted-chandrasekhar-51cd3a.netlify.app/)
 
 ## Get Started
 
